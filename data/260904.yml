@@ -7,7 +7,7 @@ about:
   head: 3934c4e
   archived: false
   latestVersion: v0.0.58
-  collectedAt: 2026-09-04T19:53:21Z
+  collectedAt: 2026-09-04T20:49:01Z
 timeline:
   created: 2026-02-11
   lastCommit: 2026-07-28
@@ -81,5 +81,43 @@ total:
   openIssue: 4
   commit: 296
 ---
+path: /home/runner/.x-repo/github.com/Bengerthelorf/pikpaktui
+collectedAt: 2026-09-04T20:49:02Z
+loc:
+  Rust:
+    code: 23894
+    comments: 280
+    blanks: 1873
+    files: 55
+  Sh:
+    code: 246
+    comments: 25
+    blanks: 58
+    files: 2
+  Svg:
+    code: 70
+    comments: 4
+    blanks: 4
+    files: 2
+  Toml:
+    code: 43
+    comments: 0
+    blanks: 2
+    files: 1
+  TypeScript:
+    code: 23
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2677
+    blanks: 1186
+    files: 20
+total:
+  code: 24880
+  comments: 3363
+  blanks: 3174
+  files: 81
 ---
 
