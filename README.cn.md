@@ -12,6 +12,18 @@ A TUI and CLI client for PikPak cloud storage — written in pure Rust. OpenClaw
 x install pikpaktui
 ```
 
+## 代码规模
+
+合计: **24,276** 行代码（覆盖前 5 种语言、共 **61** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 23,894 | 280 | 1,873 | 55 |
+| Sh | 246 | 25 | 58 | 2 |
+| Svg | 70 | 4 | 4 | 2 |
+| Toml | 43 | 0 | 2 | 1 |
+| TypeScript | 23 | 0 | 0 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/Bengerthelorf/pikpaktui>
@@ -23,6 +35,25 @@ x install pikpaktui
 - **最新版本**: `v0.0.58` (2026-07-28)
 - **最近提交**: 2026-07-28
 - **Release 含资产**: 8 个
+
+## 流行度
+
+- **Star**: 106 · **Fork**: 8 · **开放 issue**: 9 · **贡献者**: 2
+
+## 累计统计
+
+- **发布数**: 58 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 5 · **开放 issue**: 4 · **提交数**: 296
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last60d | 2026-07-12 | 2 | 0 | 0 | 1 | 4 | 15 |
+| 90d | 2026-06-12 | 2 | 0 | 0 | 2 | 4 | 39 |
+| last180d | 2026-03-14 | 8 | 0 | 0 | 3 | 4 | 103 |
+| 360d | 2025-09-15 | 58 | 0 | 0 | 5 | 4 | 296 |
+| last720d | 2024-09-20 | 58 | 0 | 0 | 5 | 4 | 296 |
 
 ## Release 资产
 
@@ -37,34 +68,6 @@ x install pikpaktui
 | [pikpaktui-x86_64-windows.zip](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.58/pikpaktui-x86_64-windows.zip) | 3.7 MiB | `native/win/x64` |
 | [sha256sums.txt](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.58/sha256sums.txt) | 675 B | `other` |
 
-## 流行度
-
-- **Star**: 105 · **Fork**: 8 · **开放 issue**: 9 · **贡献者**: 2
-
-## 累计统计
-
-- **发布数**: 58 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 5 · **开放 issue**: 4 · **提交数**: 296
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 90d | 2026-06-12 | 2 | 0 | 0 | 2 | 4 | 39 |
-| 360d | 2025-09-15 | 58 | 0 | 0 | 5 | 4 | 296 |
-
-## 代码规模
-
-合计: **24,276** 行代码（覆盖前 5 种语言、共 **61** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 23,894 | 280 | 1,873 | 55 |
-| Sh | 246 | 25 | 58 | 2 |
-| Svg | 70 | 4 | 4 | 2 |
-| Toml | 43 | 0 | 2 | 1 |
-| TypeScript | 23 | 0 | 0 | 1 |
-
 ## 改进这些数据
 
 pikpaktui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `pikpaktui` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -74,4 +77,4 @@ pikpaktui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:17:24Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:10:36Z._
