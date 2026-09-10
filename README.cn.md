@@ -4,7 +4,7 @@
 
 A TUI and CLI client for PikPak cloud storage — written in pure Rust. OpenClaw friendly. Browse, download, upload, stream, and manage your files from the terminal.
 
-![pikpaktui](https://repo.x-cmd.io/pikpaktui.svg)
+![pikpaktui](https://repo.x-cmd.io/pikpaktui.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,19 @@ x install pikpaktui
 - **最新版本**: `v0.0.58` (2026-07-28)
 - **最近提交**: 2026-07-28
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-07-28T17:48:59Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [pikpaktui-aarch64-linux.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.58/pikpaktui-aarch64-linux.tar.gz) | 3.5 MiB | `native/linux/arm64` |
+| [pikpaktui-aarch64-macos.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.58/pikpaktui-aarch64-macos.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
+| [pikpaktui-aarch64-windows.zip](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.58/pikpaktui-aarch64-windows.zip) | 3.5 MiB | `native/win/arm64` |
+| [pikpaktui-x86_64-freebsd.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.58/pikpaktui-x86_64-freebsd.tar.gz) | 3.7 MiB | `native/linux/x64` |
+| [pikpaktui-x86_64-linux.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.58/pikpaktui-x86_64-linux.tar.gz) | 3.8 MiB | `native/linux/x64` |
+| [pikpaktui-x86_64-macos.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.58/pikpaktui-x86_64-macos.tar.gz) | 3.6 MiB | `native/darwin/x64` |
+| [pikpaktui-x86_64-windows.zip](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.58/pikpaktui-x86_64-windows.zip) | 3.7 MiB | `native/win/x64` |
+| [sha256sums.txt](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.58/sha256sums.txt) | 675 B | `other` |
 
 ## 流行度
 
@@ -62,4 +74,4 @@ pikpaktui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:27:24Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:17:24Z._
