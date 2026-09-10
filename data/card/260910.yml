@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.0.58"
   latestRelease: "v0.0.58"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:16:53Z
+  collectedAt: 2026-09-10T20:10:28Z
 timeline:
   created: 2026-02-11
   lastCommit: 2026-07-28
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-28
   lastPrerelease: 
 popularity:
-  star: 105
+  star: 106
   watcher: 1
   fork: 8
   release: 58
@@ -84,7 +84,7 @@ total:
   commit: 296
 ---
 path: /home/runner/.x-repo/github.com/Bengerthelorf/pikpaktui
-collectedAt: 2026-09-10T16:17:01Z
+collectedAt: 2026-09-10T20:10:30Z
 loc:
   Rust:
     code: 23894
