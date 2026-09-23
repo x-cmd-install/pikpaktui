@@ -4,7 +4,7 @@
 
 A TUI and CLI client for PikPak cloud storage — written in pure Rust. OpenClaw friendly. Browse, download, upload, stream, and manage your files from the terminal.
 
-[![x-cmd/install — pikpaktui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pikpaktui.svg)](https://x-cmd.com/install/pikpaktui)
+[![x-cmd/install — pikpaktui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pikpaktui.svg)](https://x-cmd.com/install/pikpaktui)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **24,276** lines of code across **61** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 110 · **Forks**: 9 · **Open issues**: 9 · **Contributors**: 2
+- **Stars**: 111 · **Forks**: 9 · **Open issues**: 10 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 4 · **Commits**: 296
+- **Releases**: 58 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 5 · **Open issues**: 5 · **Commits**: 296
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-07-24 | 2 | 0 | 0 | 1 | 4 | 8 |
-| 90d | 2026-06-24 | 2 | 0 | 0 | 2 | 4 | 39 |
-| last180d | 2026-03-26 | 3 | 0 | 0 | 3 | 4 | 97 |
-| 360d | 2025-09-27 | 58 | 0 | 0 | 5 | 4 | 296 |
-| last720d | 2024-10-02 | 58 | 0 | 0 | 5 | 4 | 296 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 1 | 1 | 0 |
+| last60d | 2026-07-25 | 2 | 0 | 0 | 1 | 5 | 8 |
+| 90d | 2026-06-25 | 2 | 0 | 0 | 2 | 5 | 39 |
+| last180d | 2026-03-27 | 3 | 0 | 0 | 3 | 5 | 97 |
+| 360d | 2025-09-28 | 58 | 0 | 0 | 5 | 5 | 296 |
+| last720d | 2024-10-03 | 58 | 0 | 0 | 5 | 5 | 296 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for pikpaktui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:44:08Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:39:41Z._
