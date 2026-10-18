@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3825398,
       "digest": "sha256:599d4c1d0d69c689f180d0342101b82414c9ae86df241db2ba062bc67d4f4a53",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-08T09:32:13Z",
       "updated_at": "2026-10-08T09:32:13Z",
       "browser_download_url": "https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.60/pikpaktui-aarch64-windows.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4109211,
       "digest": "sha256:7bc8bd503bc9f72f72d02d972a38205b610b6e07101a69f0732757720d60eaf3",
-      "download_count": 70,
+      "download_count": 79,
       "created_at": "2026-10-08T09:32:13Z",
       "updated_at": "2026-10-08T09:32:13Z",
       "browser_download_url": "https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.60/pikpaktui-x86_64-linux.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4039956,
       "digest": "sha256:b43207241454568b8c257f216bd158f3f15689a2e2530d55725adaeba4be25ad",
-      "download_count": 33,
+      "download_count": 40,
       "created_at": "2026-10-08T09:32:13Z",
       "updated_at": "2026-10-08T09:32:13Z",
       "browser_download_url": "https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.60/pikpaktui-x86_64-windows.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 675,
       "digest": "sha256:99218a14603219cec20dd59786ac6fd80421bc36ae2f4c988bdfcc43b8735d64",
-      "download_count": 64,
+      "download_count": 68,
       "created_at": "2026-10-08T09:32:13Z",
       "updated_at": "2026-10-08T09:32:13Z",
       "browser_download_url": "https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.60/sha256sums.txt"
