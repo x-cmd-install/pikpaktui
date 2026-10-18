@@ -38,7 +38,7 @@ Total: **30,182** lines of code across **71** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 125 · **Forks**: 10 · **Open issues**: 10 · **Contributors**: 2
+- **Stars**: 127 · **Forks**: 10 · **Open issues**: 10 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **30,182** lines of code across **71** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 1 | 0 | 1 | 0 | 1 | 4 |
-| last60d | 2026-08-18 | 1 | 0 | 1 | 1 | 1 | 4 |
-| 90d | 2026-07-19 | 3 | 0 | 1 | 1 | 5 | 19 |
-| last180d | 2026-04-20 | 4 | 0 | 1 | 3 | 5 | 101 |
-| 360d | 2025-10-22 | 59 | 0 | 1 | 5 | 5 | 300 |
-| last720d | 2024-10-27 | 59 | 0 | 1 | 5 | 5 | 300 |
+| 30d | 2026-09-18 | 1 | 0 | 1 | 0 | 1 | 4 |
+| last60d | 2026-08-19 | 1 | 0 | 1 | 1 | 1 | 4 |
+| 90d | 2026-07-20 | 3 | 0 | 1 | 1 | 5 | 15 |
+| last180d | 2026-04-21 | 4 | 0 | 1 | 3 | 5 | 96 |
+| 360d | 2025-10-23 | 59 | 0 | 1 | 5 | 5 | 300 |
+| last720d | 2024-10-28 | 59 | 0 | 1 | 5 | 5 | 300 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for pikpaktui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:11:03Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:18:28Z._
