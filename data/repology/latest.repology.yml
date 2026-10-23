@@ -1,0 +1,11 @@
+- repo: nix_unstable
+  srcname: pikpaktui
+  visiblename: pikpaktui
+  version: 0.0.56
+  origversion: null
+  status: unique
+  summary: TUI and CLI client for PikPak cloud storage
+  maintainers:
+    - 2210227279@qq.com
+  licenses:
+    - Apache-2.0
