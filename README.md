@@ -48,12 +48,12 @@ Total: **33,049** lines of code across **76** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 3 | 1 | 1 | 0 | 0 | 11 |
-| last60d | 2026-08-27 | 3 | 1 | 1 | 2 | 0 | 11 |
-| 90d | 2026-07-28 | 4 | 1 | 1 | 6 | 0 | 11 |
-| last180d | 2026-04-29 | 6 | 1 | 1 | 7 | 0 | 103 |
-| 360d | 2025-10-31 | 61 | 1 | 1 | 10 | 0 | 307 |
-| last720d | 2024-11-05 | 61 | 1 | 1 | 10 | 0 | 307 |
+| 30d | 2026-09-27 | 3 | 1 | 1 | 0 | 0 | 11 |
+| last60d | 2026-08-28 | 3 | 1 | 1 | 2 | 0 | 11 |
+| 90d | 2026-07-29 | 3 | 1 | 1 | 6 | 0 | 11 |
+| last180d | 2026-04-30 | 6 | 1 | 1 | 7 | 0 | 103 |
+| 360d | 2025-11-01 | 61 | 1 | 1 | 10 | 0 | 307 |
+| last720d | 2024-11-06 | 61 | 1 | 1 | 10 | 0 | 307 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for pikpaktui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:31:22Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:50:46Z._
