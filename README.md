@@ -14,15 +14,15 @@ x install pikpaktui
 
 ## Code insight
 
-Total: **33,049** lines of code across **76** files in the top 5 languages.
+Total: **40,889** lines of code across **91** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 32,664 | 353 | 2,180 | 70 |
-| Sh | 246 | 25 | 58 | 2 |
+| Rust | 40,002 | 436 | 2,536 | 82 |
+| Python | 430 | 3 | 49 | 2 |
+| Sh | 283 | 28 | 61 | 3 |
+| Toml | 81 | 1 | 7 | 2 |
 | Svg | 70 | 4 | 4 | 2 |
-| Toml | 46 | 0 | 2 | 1 |
-| TypeScript | 23 | 0 | 0 | 1 |
 
 ## Source
 
@@ -32,9 +32,9 @@ Total: **33,049** lines of code across **76** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.0.63` (2026-10-22)
-- **Last commit**: 2026-11-18
-- **Assets in release**: 8
+- **Latest**: `v0.0.66` (2026-11-24)
+- **Last commit**: 2026-11-24
+- **Assets in release**: 9
 
 ## Popularity
 
@@ -42,31 +42,32 @@ Total: **33,049** lines of code across **76** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 7 · **Open issues**: 3 · **Commits**: 309
+- **Releases**: 64 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 7 · **Open issues**: 3 · **Commits**: 318
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-25 | 3 | 2 | 1 | 0 | 0 | 12 |
-| 90d | 2026-08-26 | 3 | 2 | 1 | 1 | 1 | 12 |
-| last180d | 2026-05-28 | 6 | 2 | 1 | 4 | 3 | 60 |
-| 360d | 2025-11-29 | 61 | 2 | 1 | 7 | 3 | 308 |
-| last720d | 2024-12-04 | 61 | 2 | 1 | 7 | 3 | 309 |
+| 30d | 2026-10-26 | 3 | 1 | 0 | 0 | 0 | 10 |
+| last60d | 2026-09-26 | 6 | 2 | 1 | 0 | 0 | 21 |
+| 90d | 2026-08-27 | 6 | 2 | 1 | 1 | 1 | 21 |
+| last180d | 2026-05-29 | 9 | 2 | 1 | 4 | 3 | 69 |
+| 360d | 2025-11-30 | 64 | 2 | 1 | 7 | 3 | 317 |
+| last720d | 2024-12-05 | 64 | 2 | 1 | 7 | 3 | 318 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [pikpaktui-aarch64-linux.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.63/pikpaktui-aarch64-linux.tar.gz) | 3.7 MiB | `native/linux/arm64` |
-| [pikpaktui-aarch64-macos.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.63/pikpaktui-aarch64-macos.tar.gz) | 3.6 MiB | `native/darwin/arm64` |
-| [pikpaktui-aarch64-windows.zip](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.63/pikpaktui-aarch64-windows.zip) | 3.7 MiB | `native/win/arm64` |
-| [pikpaktui-x86_64-freebsd.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.63/pikpaktui-x86_64-freebsd.tar.gz) | 3.9 MiB | `native/linux/x64` |
-| [pikpaktui-x86_64-linux.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.63/pikpaktui-x86_64-linux.tar.gz) | 4.0 MiB | `native/linux/x64` |
-| [pikpaktui-x86_64-macos.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.63/pikpaktui-x86_64-macos.tar.gz) | 3.8 MiB | `native/darwin/x64` |
-| [pikpaktui-x86_64-windows.zip](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.63/pikpaktui-x86_64-windows.zip) | 3.9 MiB | `native/win/x64` |
-| [sha256sums.txt](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.63/sha256sums.txt) | 675 B | `other` |
+| [pikpaktui-aarch64-linux.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.66/pikpaktui-aarch64-linux.tar.gz) | 4.4 MiB | `native/linux/arm64` |
+| [pikpaktui-aarch64-macos.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.66/pikpaktui-aarch64-macos.tar.gz) | 4.3 MiB | `native/darwin/arm64` |
+| [pikpaktui-aarch64-windows.zip](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.66/pikpaktui-aarch64-windows.zip) | 4.4 MiB | `native/win/arm64` |
+| [pikpaktui-android-arm64-v8a-api1.so](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.66/pikpaktui-android-arm64-v8a-api1.so) | 4.5 MiB | `other` |
+| [pikpaktui-x86_64-freebsd.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.66/pikpaktui-x86_64-freebsd.tar.gz) | 4.5 MiB | `native/linux/x64` |
+| [pikpaktui-x86_64-linux.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.66/pikpaktui-x86_64-linux.tar.gz) | 4.7 MiB | `native/linux/x64` |
+| [pikpaktui-x86_64-macos.tar.gz](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.66/pikpaktui-x86_64-macos.tar.gz) | 4.5 MiB | `native/darwin/x64` |
+| [pikpaktui-x86_64-windows.zip](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.66/pikpaktui-x86_64-windows.zip) | 4.6 MiB | `native/win/x64` |
+| [sha256sums.txt](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.66/sha256sums.txt) | 777 B | `other` |
 
 ## Improve this data
 
@@ -77,4 +78,4 @@ Install metadata for pikpaktui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:51:13Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:17:01Z._
