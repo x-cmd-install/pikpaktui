@@ -1,9 +1,21 @@
+- repo: aur
+  srcname: pikpaktui-bin
+  binname: pikpaktui-bin
+  visiblename: pikpaktui-bin
+  version: 0.0.66
+  origversion: 0.0.66-1
+  status: newest
+  summary: TUI and CLI client for PikPak cloud storage
+  maintainers:
+    - ahp@aur
+  licenses:
+    - Apache-2.0
 - repo: nix_unstable
   srcname: pikpaktui
   visiblename: pikpaktui
   version: 0.0.56
   origversion: null
-  status: unique
+  status: outdated
   summary: TUI and CLI client for PikPak cloud storage
   maintainers:
     - 2210227279@qq.com
