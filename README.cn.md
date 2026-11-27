@@ -48,12 +48,12 @@ x install pikpaktui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 5 | 1 | 0 | 0 | 0 | 14 |
-| last60d | 2026-09-27 | 8 | 2 | 1 | 0 | 0 | 25 |
-| 90d | 2026-08-28 | 8 | 2 | 1 | 1 | 1 | 25 |
-| last180d | 2026-05-30 | 11 | 2 | 1 | 4 | 3 | 73 |
-| 360d | 2025-12-01 | 66 | 2 | 1 | 7 | 3 | 321 |
-| last720d | 2024-12-06 | 66 | 2 | 1 | 7 | 3 | 322 |
+| 30d | 2026-10-28 | 5 | 1 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 8 | 2 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 8 | 2 | 1 | 1 | 1 | 0 |
+| last180d | 2026-05-31 | 11 | 2 | 1 | 4 | 3 | 0 |
+| 360d | 2025-12-02 | 66 | 2 | 1 | 7 | 3 | 0 |
+| last720d | 2024-12-07 | 66 | 2 | 1 | 7 | 3 | 322 |
 
 ## Release 资产
 
@@ -69,14 +69,6 @@ x install pikpaktui
 | [pikpaktui-x86_64-windows.zip](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.68/pikpaktui-x86_64-windows.zip) | 4.8 MiB | `native/win/x64` |
 | [sha256sums.txt](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.68/sha256sums.txt) | 777 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/pikpaktui) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.0.56` | ⚠️ outdated |
-
 ## 改进这些数据
 
 pikpaktui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `pikpaktui` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -86,4 +78,4 @@ pikpaktui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:04:01Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T08:08:11Z._

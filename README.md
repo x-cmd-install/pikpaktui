@@ -48,12 +48,12 @@ Total: **46,937** lines of code across **101** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 5 | 1 | 0 | 0 | 0 | 14 |
-| last60d | 2026-09-27 | 8 | 2 | 1 | 0 | 0 | 25 |
-| 90d | 2026-08-28 | 8 | 2 | 1 | 1 | 1 | 25 |
-| last180d | 2026-05-30 | 11 | 2 | 1 | 4 | 3 | 73 |
-| 360d | 2025-12-01 | 66 | 2 | 1 | 7 | 3 | 321 |
-| last720d | 2024-12-06 | 66 | 2 | 1 | 7 | 3 | 322 |
+| 30d | 2026-10-28 | 5 | 1 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 8 | 2 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 8 | 2 | 1 | 1 | 1 | 0 |
+| last180d | 2026-05-31 | 11 | 2 | 1 | 4 | 3 | 0 |
+| 360d | 2025-12-02 | 66 | 2 | 1 | 7 | 3 | 0 |
+| last720d | 2024-12-07 | 66 | 2 | 1 | 7 | 3 | 322 |
 
 ## Release assets
 
@@ -69,14 +69,6 @@ Total: **46,937** lines of code across **101** files in the top 5 languages.
 | [pikpaktui-x86_64-windows.zip](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.68/pikpaktui-x86_64-windows.zip) | 4.8 MiB | `native/win/x64` |
 | [sha256sums.txt](https://github.com/Bengerthelorf/pikpaktui/releases/download/v0.0.68/sha256sums.txt) | 777 B | `other` |
 
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/pikpaktui). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.0.56` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for pikpaktui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pikpaktui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +78,4 @@ Install metadata for pikpaktui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:04:00Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:08:11Z._
